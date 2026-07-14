@@ -82,7 +82,7 @@ Add an object and it is immediately available — no registration needed.
 publishes autonomous-agent tooling at $0 marginal cost.
 
 See the full showcase of agent offerings and services here:
-https://github.com/itsPremkumar/Prem-Autonomous-Co
+https://github.com/itsPremkumar/prem-autonomous-showcase
 
 ## License
 
